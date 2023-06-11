@@ -1,0 +1,5 @@
+C:\Users\aleks\source\repos\AreaLIbrary\AreaLIbrary\bin\Debug\AreaLIbrary.dll
+C:\Users\aleks\source\repos\AreaLIbrary\AreaLIbrary\bin\Debug\AreaLIbrary.pdb
+C:\Users\aleks\source\repos\AreaLIbrary\AreaLIbrary\obj\Debug\AreaLIbrary.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\AreaLIbrary\AreaLIbrary\obj\Debug\AreaLIbrary.dll
+C:\Users\aleks\source\repos\AreaLIbrary\AreaLIbrary\obj\Debug\AreaLIbrary.pdb
